@@ -1,0 +1,4 @@
+sqlalchemy
+databricks-sql-connector
+pandas
+streamlit
